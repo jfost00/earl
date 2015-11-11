@@ -6,6 +6,14 @@ body {
     text-align: center;
 }
 
+ #pics{
+    width=2000px;
+    background-color: slategray;
+}
+ #pics2{
+    width=2000px;
+    background-color: slategray;
+}
 
  #contents li{
     padding: 5px;
